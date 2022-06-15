@@ -14,7 +14,7 @@ class TrainModel:
     *
     * filename:       TrainModel.py
     * version:        1.0
-    * author:         CODESTUDIO
+    * author:         Mouad Et-tali
     * creation date:  05-MAY-2020
     *
     * change history:
